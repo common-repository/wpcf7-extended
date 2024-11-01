@@ -1,0 +1,100 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WPCF7 Extended\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-30 21:50+0700\n"
+"PO-Revision-Date: 2021-11-09 11:08+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html\n"
+"X-Poedit-Basepath: ../modules\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-SearchPath-0: confirm\n"
+"X-Poedit-SearchPath-1: button\n"
+
+#: button/cf7-extended-add-button.php:32
+msgid "Button"
+msgstr ""
+
+#: button/cf7-extended-add-button.php:58 button/cf7-extended-add-button.php:117
+msgid "CF7E Button"
+msgstr ""
+
+#: button/cf7-extended-add-button.php:72 confirm/cf7-extended-add-back.php:77
+#: confirm/cf7-extended-add-confirm.php:83
+msgid "Label"
+msgstr ""
+
+#: button/cf7-extended-add-button.php:81 confirm/cf7-extended-add-back.php:85
+#: confirm/cf7-extended-add-confirm.php:92
+msgid "Id attribute"
+msgstr ""
+
+#: button/cf7-extended-add-button.php:89 confirm/cf7-extended-add-back.php:93
+#: confirm/cf7-extended-add-confirm.php:100
+msgid "Class attribute"
+msgstr ""
+
+#: button/cf7-extended-add-button.php:104 confirm/cf7-extended-add-back.php:116
+#: confirm/cf7-extended-add-confirm.php:132
+#: confirm/cf7-extended-add-thanks.php:86
+msgid "Insert Tag"
+msgstr ""
+
+#: button/cf7-extended-add-button.php:123 confirm/cf7-extended-add-back.php:136
+#: confirm/cf7-extended-add-confirm.php:151
+#: confirm/cf7-extended-add-thanks.php:106
+msgid "Support Contact Form 7 version 4.2.0 or higher"
+msgstr ""
+
+#: confirm/cf7-extended-add-back.php:33 confirm/cf7-extended-add-thanks.php:31
+msgid "Back"
+msgstr ""
+
+#: confirm/cf7-extended-add-back.php:63
+msgid "CF7E Back"
+msgstr ""
+
+#: confirm/cf7-extended-add-back.php:102
+#: confirm/cf7-extended-add-confirm.php:109
+msgid "Tags submit is <button>"
+msgstr ""
+
+#: confirm/cf7-extended-add-back.php:130
+#: confirm/cf7-extended-add-thanks.php:100
+msgid "Back button"
+msgstr ""
+
+#: confirm/cf7-extended-add-confirm.php:31
+msgid "Confirm"
+msgstr ""
+
+#: confirm/cf7-extended-add-confirm.php:69
+msgid "CF7E Confirm"
+msgstr ""
+
+#: confirm/cf7-extended-add-confirm.php:115
+msgid "Anchor ID"
+msgstr ""
+
+#: confirm/cf7-extended-add-confirm.php:119
+msgid "Scroll the screen to the desired ID.<br>Default will scroll the screen to the form ID"
+msgstr ""
+
+#: confirm/cf7-extended-add-confirm.php:145
+msgid "Confirm button"
+msgstr ""
+
+#: confirm/cf7-extended-add-thanks.php:58
+msgid "CF7E Thanks"
+msgstr ""
+
+#: confirm/cf7-extended-add-thanks.php:71
+msgid "Thank you page link"
+msgstr ""

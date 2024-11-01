@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Form 7 Confirm\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-09 11:33+0700\n"
+"PO-Revision-Date: 2022-03-30 21:53+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html\n"
+"X-Poedit-Basepath: ../modules/confirm\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: button/cf7-extended-add-button.php:32
+msgid "Button"
+msgstr "ボタン"
+
+#: button/cf7-extended-add-button.php:58 button/cf7-extended-add-button.php:117
+msgid "CF7E Button"
+msgstr "CF7Eボタン"
+
+#: cf7-extended-add-back.php:33 cf7-extended-add-thanks.php:31
+msgid "Back"
+msgstr "戻る"
+
+#: cf7-extended-add-back.php:63
+msgid "CF7E Back"
+msgstr "CF7E戻る"
+
+#: cf7-extended-add-back.php:77 cf7-extended-add-confirm.php:79
+msgid "Label"
+msgstr "ラベル"
+
+#: cf7-extended-add-back.php:85 cf7-extended-add-confirm.php:88
+msgid "Id attribute"
+msgstr "ID属性"
+
+#: cf7-extended-add-back.php:93 cf7-extended-add-confirm.php:96
+msgid "Class attribute"
+msgstr "クラス属性"
+
+#: cf7-extended-add-back.php:102 cf7-extended-add-confirm.php:105
+msgid "Tags submit is <button>"
+msgstr "タグの送信は、 <button>"
+
+#: cf7-extended-add-back.php:116 cf7-extended-add-confirm.php:119
+#: cf7-extended-add-thanks.php:86
+msgid "Insert Tag"
+msgstr "タグの挿入"
+
+#: cf7-extended-add-back.php:130 cf7-extended-add-thanks.php:100
+msgid "Back button"
+msgstr "戻るボタン"
+
+#: cf7-extended-add-back.php:136 cf7-extended-add-confirm.php:138
+#: cf7-extended-add-thanks.php:106
+msgid "Support Contact Form 7 version 4.2.0 or higher"
+msgstr "お問い合わせフォーム7バージョン4.2.0以降をサポート"
+
+#: cf7-extended-add-confirm.php:33
+msgid "Confirm"
+msgstr "確認する"
+
+#: cf7-extended-add-confirm.php:65
+msgid "CF7E Confirm"
+msgstr "CF7E確定"
+
+#: cf7-extended-add-confirm.php:132
+msgid "Confirm button"
+msgstr "確認ボタン"
+
+#: cf7-extended-add-thanks.php:58
+msgid "CF7E Thanks"
+msgstr "CF7Eありがとう"
+
+#: cf7-extended-add-thanks.php:71
+msgid "Thank you page link"
+msgstr "ありがとうページリンク"
+
+#: cf7-extended-add-confirm.php:115
+msgid "Anchor ID"
+msgstr "アンカーID"
+
+#: cf7-extended-add-confirm.php:119
+msgid "Scroll the screen to the desired ID.<br>Default will scroll the screen to the form ID"
+msgstr "画面を目的のIDまでスクロールします。 <br>デフォルトでは、画面がフォームIDまでスクロールされます"
